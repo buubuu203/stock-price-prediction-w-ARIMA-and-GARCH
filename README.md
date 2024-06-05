@@ -1,4 +1,3 @@
-
 **Stock Price Prediction with ARIMA and GARCH**
 
 ---
@@ -29,29 +28,27 @@ This repository provides a framework for predicting stock prices of three banks:
 #### ARIMA Model Predictions for 90 Days:
 
 - **CTS:**
-![ARIMA 90-day Prediction for CTS](Pictures/ARIMA/ARIMA_CTS_73.png)
+<img src="Pictures/ARIMA/ARIMA_CTS_73.png" alt="ARIMA 90-day Prediction for CTS" width="600" height="400">
 
 - **ACB:**
-![ARIMA 90-day Prediction for ACB](Pictures/ARIMA/ARIMA_ACB_73.png)
+<img src="Pictures/ARIMA/ARIMA_ACB_73.png" alt="ARIMA 90-day Prediction for ACB" width="600" height="400">
 
 - **SBS:**
-![ARIMA 90-day Prediction for SBS](Pictures/ARIMA/ARIMA_SBS_73.png)
+<img src="Pictures/ARIMA/ARIMA_SBS_73.png" alt="ARIMA 90-day Prediction for SBS" width="600" height="400">
 
 #### GARCH Model Predictions for 90 Days:
 
 - **CTS:**
-![GARCH 90-day Prediction for CTS](Pictures/GARCH/GARCH_CTS_73.png)
+<img src="Pictures/GARCH/GARCH_CTS_73.png" alt="GARCH 90-day Prediction for CTS" width="600" height="400">
 
 - **ACB:**
-![GARCH 90-day Prediction for ACB](Pictures/GARCH/GARCH_ACB_73.png)
+<img src="Pictures/GARCH/GARCH_ACB_73.png" alt="GARCH 90-day Prediction for ACB" width="600" height="400">
 
 - **SBS:**
-![GARCH 90-day Prediction for SBS](Pictures/GARCH/GARCH_SBS_73.png)
+<img src="Pictures/GARCH/GARCH_SBS_73.png" alt="GARCH 90-day Prediction for SBS" width="600" height="400">
 
 
 ### Conclusion:
 This repository serves as a valuable resource for investors seeking reliable forecasts of bank stock prices. By leveraging ARIMA and GARCH models, it facilitates data-driven decision-making and enhances investment strategies.
 
 --- 
-
-
